@@ -14,13 +14,11 @@ https://colab.research.google.com/drive/1cPKoGzyP1jj7Xv-fgzj6BEn2DB6XOBYc?usp=sh
 
 The Power BI dashboard was developed using Power BI Desktop. Due to Power BI online publishing requirements, the dashboard is provided through the included .pbix file and dashboard screenshot contained in this repository.
 
-### Presentation Link
+### \## Presentation Link
 
+### 
 
-
-\[View Presentation PDF](https://drive.google.com/file/d/1FKHvQAQ0rt6\_NZ6KZ57gZ3-OkG5eYUJG/view?usp=sharing)
-
-### Dashboard Screenshot
+### \[View Presentation PDF](https://drive.google.com/file/d/1FKHvQAQ0rt6\_NZ6KZ57gZ3-OkG5eYUJG/view?usp=sharing)Dashboard Screenshot
 
 
 
