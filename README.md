@@ -16,8 +16,6 @@ The Power BI dashboard was developed using Power BI Desktop. Due to Power BI onl
 
 ### Presentation Link
 
-
-
 \[Presentation PDF](https://drive.google.com/file/d/1FKHvQAQ0rt6\_NZ6KZ57gZ3-OkG5eYUJG/view?usp=sharing)
 
 ### Dashboard Screenshot
