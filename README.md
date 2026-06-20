@@ -8,7 +8,7 @@ This project analyzed delivery performance using the Olist Brazilian E-Commerce 
 
 ## Notebook Link
 
-https://drive.google.com/file/d/1FKHvQAQ0rt6_NZ6KZ57gZ3-OkG5eYUJG/view?usp=sharing
+https://colab.research.google.com/drive/1cPKoGzyP1jj7Xv-fgzj6BEn2DB6XOBYc?usp=sharing
 
 ### Dashboard Link
 
