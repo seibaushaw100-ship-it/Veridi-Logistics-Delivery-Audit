@@ -32,7 +32,11 @@ The datasets were merged using common keys such as order\_id and customer\_id. D
 ### Feature Engineering
 
 Several business-focused features were created, including:
-Days\_Difference, Delivery\_Status, Late\_Flag, Late Delivery Rate, On-Time Delivery Rate.
+Days\_Difference 
+Delivery\_Status 
+Late\_Flag 
+Late Delivery Rate
+On-Time Delivery Rate.
 Orders were classified into On Time, Late, Super Late, and Not Delivered categories to support performance analysis.
 
 ### Candidate’s Choice Challenge
