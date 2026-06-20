@@ -10,8 +10,9 @@ This project analyzed delivery performance using the Olist Brazilian E-Commerce 
 https://colab.research.google.com/drive/1cPKoGzyP1jj7Xv-fgzj6BEn2DB6XOBYc?usp=sharing
 
 ### Dashboard Link
-
-The Power BI dashboard was developed using Power BI Desktop. Due to Power BI online publishing requirements, the dashboard is provided through the included .pbix file and dashboard screenshot contained in this repository.
+### Power BI Dashboard Access
+The Power BI dashboard for this project is included in this repository as the file **AmaliTech_Projec.pbix**. Due to Power BI Service publishing requirements, the dashboard was not deployed to Power BI Web. Reviewers can download the `.pbix` file and open it using Microsoft Power BI Desktop to interact with the dashboard. A dashboard screenshot has also been included in the repository for quick reference.
+https://drive.google.com/file/d/1iei3wmjl-IQUCU4P0Rfcv8XEHCVnYDWU/view?usp=sharing
 
 ## Presentation Link
 
