@@ -1,4 +1,4 @@
-\# Veridi Logistics Delivery Performance Audit
+## Veridi Logistics Delivery Performance Audit
 
 ## A. Executive Summary
 
@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1FKHvQAQ0rt6_NZ6KZ57gZ3-OkG5eYUJG/view?usp=shari
 
 The Power BI dashboard was developed using Power BI Desktop. Due to Power BI online publishing requirements, the dashboard is provided through the included .pbix file and dashboard screenshot contained in this repository.
 
-\## Presentation Link
+## Presentation Link
 
 https://drive.google.com/file/d/1FKHvQAQ0rt6_NZ6KZ57gZ3-OkG5eYUJG/view?usp=sharing
 
@@ -22,26 +22,22 @@ https://drive.google.com/file/d/1FKHvQAQ0rt6_NZ6KZ57gZ3-OkG5eYUJG/view?usp=shari
 
 
 
-\#C. Technical Explanation
+## C. Technical Explanation
 
 ### Data Cleaning
 
 The project utilized the Olist Brazilian E-Commerce Dataset obtained from Kaggle. Multiple relational tables were integrated, including:
-•	olist\_orders\_dataset.csv
-•	olist\_order\_reviews\_dataset.csv
-•	olist\_customers\_dataset.csv
-•	olist\_products\_dataset.csv
-•	product\_category\_name\_translation.csv
+1	olist\_orders\_dataset.csv
+2	olist\_order\_reviews\_dataset.csv
+3	olist\_customers\_dataset.csv
+4	olist\_products\_dataset.csv
+5	product\_category\_name\_translation.csv
 The datasets were merged using common keys such as order\_id and customer\_id. Duplicate records were checked, missing values were handled appropriately, and date columns were converted to datetime format to support delivery performance calculations. Product categories were translated from Portuguese to English using the provided translation dataset.
 
 ### Feature Engineering
 
 Several business-focused features were created, including:
-•	Days\_Difference
-•	Delivery\_Status
-•	Late\_Flag
-•	Late Delivery Rate
-•	On-Time Delivery Rate
+Days\_Difference, Delivery\_Status, Late\_Flag, Late Delivery Rate, On-Time Delivery Rate.
 Orders were classified into On Time, Late, Super Late, and Not Delivered categories to support performance analysis.
 
 ### Candidate’s Choice Challenge
@@ -58,15 +54,15 @@ An additional analysis titled "Orders by Delivery Status" was added to the dashb
 ## Dashboard Overview
 
 The Power BI dashboard includes:
-	Total Orders KPI
-	On-Time Delivery Rate KPI
-	Late Delivery Rate KPI
-	Average Review Score KPI
-	Top 5 Product Categories by Late Delivery Rate
-	Top States by Late Delivery Rate
-	Review Score by Delivery Status
-	Orders by Delivery Status
-	State Filter Slicer
+1	Total Orders KPI
+2	On-Time Delivery Rate KPI
+3 Late Delivery Rate KPI
+4	Average Review Score KPI
+5	Top 5 Product Categories by Late Delivery Rate
+6	Top States by Late Delivery Rate
+7	Review Score by Delivery Status
+8	Orders by Delivery Status
+9	State Filter Slicer
 
 ## Geographic Analysis
 
@@ -107,6 +103,6 @@ These results demonstrate a strong relationship between delivery performance and
 4. Reduce delivery delays to improve customer satisfaction.
 5. Continue monitoring logistics performance using the Power BI dashboard.
 
-\## Conclusion
+## Conclusion
 The analysis demonstrates that delivery performance is a significant driver of customer satisfaction. While Veridi Logistics maintains a strong overall on-time delivery rate, targeted interventions in specific product categories and regions can further reduce delays and improve the customer experience. The developed dashboard provides a practical decision-support tool for monitoring logistics performance and supporting continuous improvement initiatives.
 
